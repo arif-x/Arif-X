@@ -1,6 +1,6 @@
 # Hi there, I'm Ariffudin
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Backend Developer
 
@@ -8,7 +8,7 @@
 - ⚡ I secretly learning about Blockchain Dapp development
 - 😅 I'am a "Makar" meme enjoyer
 
-### Contact with me 📝
+### Contact me 📝
 
 [<img align="left" alt="arif-x" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="arif-x | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
