@@ -1,6 +1,6 @@
 # Hi there, I'm Ariffudin
 
-<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" width="33%" height="auto" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Backend Developer
 
