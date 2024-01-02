@@ -37,7 +37,7 @@
 ![PHP](http://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=php&logoColor=ffffff)
 ![Laravel](http://img.shields.io/badge/-Laravel-e60f00?style=flat-square&logo=laravel&logoColor=ffffff)
 ![CodeIgniter](http://img.shields.io/badge/-CodeIgniter-fa7b05?style=flat-square&logo=codeigniter&logoColor=ffffff)
-
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=ffffff)
 <br/>
 
 [website]: http://arif-x.github.io/
