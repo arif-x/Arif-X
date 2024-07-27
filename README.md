@@ -13,7 +13,6 @@
 [<img align="left" alt="arif-x" height="30px" src="https://cdn-icons-png.flaticon.com/512/1006/1006669.png" />][website]
 [<img align="left" alt="arif-x | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>][linkedin]
 [<img align="left" alt="arif-x | Telegram" height="30px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][Telegram]
-[<img align="left" alt="arif-x | Facebook" height="30px" src="https://cdn-icons-png.flaticon.com/512/145/145802.png" />][Facebook]
 
 <br />
 
