@@ -41,5 +41,5 @@
 
 [website]: http://arif-x.github.io/
 [Facebook]: https://facebook.com/S.Minato.Namikaze/
-[linkedin]: https://www.linkedin.com/mwlite/in/moh-ariffudin-3493b2158/
+[linkedin]: https://www.linkedin.com/in/sudo-ariffudin/
 [Telegram]: https://t.me/m_ariffudin/
