@@ -5,8 +5,9 @@
 ## I'm a Backend Developer
 
 - 📚 I currently learning everything about Frontend and Backend technologies
+- ⚡ I focused on Backend
 - ⚡ I secretly learning about Blockchain Dapp development
-- 😅 I'am a "Makar" meme enjoyer
+<!--- - 😅 I'am a "Makar" meme enjoyer --->
 
 ### Contact me 📝
 
